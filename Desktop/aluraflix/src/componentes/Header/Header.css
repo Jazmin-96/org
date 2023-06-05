@@ -1,0 +1,15 @@
+.header{
+    background-color: rgba(0, 0, 0, 0.9);
+    width:100%;
+    display: Flex;
+    justify-content: Left;
+    
+}
+
+.header img{
+    width: 20%;
+    justify-content: space-between;
+    padding-right: 40rem;
+    padding-left: 2rem;
+    
+}
